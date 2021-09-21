@@ -12,5 +12,5 @@ Steps:
 
 4.It will compare the registation number with the blockedlist database
 
-5.If it is in blocke list then intimate concern officer with a whatsapp message
+5.If it is in blocked list then intimate concern officer with a whatsapp message
 
