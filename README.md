@@ -1,6 +1,6 @@
-# NUMBER-PLATE-DETECTION-01
+# NUMBER-PLATE-DETECTION
 
-# Car-Number-Plate-Detction-Extraction-And-Reading
+
 
 Steps:
 
