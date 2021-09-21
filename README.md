@@ -16,7 +16,7 @@ Steps:
 
 1.Original Image:
 
-![](sample%20images/1.Original%20Image.jpg)
+![](![image](https://user-images.githubusercontent.com/67466775/134222747-3de58ea2-8fe2-4aac-931a-9e57b2b10891.png))
  
 
 
