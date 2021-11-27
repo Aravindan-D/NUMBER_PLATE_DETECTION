@@ -5,7 +5,7 @@
 Steps:
 
 1.Detction of car from image using haar cascade for cars.
-
+![Alt text](https://github.com/Aravindan-D/NUMBER_PLATE_DETECTION/blob/main/images/car1.jfif "Input Image")
 2.Detection of number plate of car and seperating it.
 
 3.Reading the text using pytesseract module for Optical Character Recognition in detected number plate image.
@@ -14,4 +14,4 @@ Steps:
 
 5.If it is in blocked list then intimate concern officer with a whatsapp message
 
-![Alt text](https://github.com/Aravindan-D/NUMBER_PLATE_DETECTION/blob/main/images/car1.jfif)
+
