@@ -7,7 +7,7 @@ Steps:
 1.Detction of car from image using haar cascade for cars.
 
 
-![Alt text](https://github.com/Aravindan-D/NUMBER_PLATE_DETECTION/blob/main/images/car1.jfif )
+![Alt text](https://github.com/Aravindan-D/NUMBER_PLATE_DETECTION/blob/main/images/1.jpg )
 
 
 2.Detection of number plate of car and seperating it.
