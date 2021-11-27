@@ -14,3 +14,4 @@ Steps:
 
 5.If it is in blocked list then intimate concern officer with a whatsapp message
 
+![Alt text](https://github.com/Aravindan-D/NUMBER_PLATE_DETECTION/blob/main/images/car1.jfif)
